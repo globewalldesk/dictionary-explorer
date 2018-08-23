@@ -63,7 +63,8 @@ flabbergasting, flabbergasts, iceberg, icebergs
 
 2. Scrabble search:
 If you start your search with a forward slash (/) followed by some letters,
-then you'll get back a list of words that use of those letters (in any order).
+then you'll get back a list of all words that use only those letters (in any
+order).
 
 Example: search for '/asdf'. Results:
 7 found.
